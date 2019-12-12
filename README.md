@@ -1,2 +1,2 @@
 # SearchFolderPath
-搜索文件及文件夹路径
+搜索文件夹及文件路径
